@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+#dealer-cards img{
+    height: 300px;
+    width: 200px;
+    margin: 3px;
+}
+
+#your-cards img{
+    height: 300px;
+    width: 200px;
+    margin: 3px;
+}
+
+#hit{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    margin:20px;
+}
+
+#stay{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+    margin: 20px;
+}
